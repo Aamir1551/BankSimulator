@@ -1,4 +1,4 @@
-Mini project for bamboo loans.
+Mini project.
 
 You will need to have python version 3 to run this program. Simply type python3 main.py
 This is a simple program where others can login/logout and deposit/withdraw a certain amount of cash.
